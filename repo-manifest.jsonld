@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hynek/argon2-cffi/commit/ff02917de777743d815a0410d816739ccd36396a",
       "git:hexsha": "ff02917de777743d815a0410d816739ccd36396a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hynek/argon2-cffi/commit/d6ab268c18cf1a5d9814017d3ed087be8d0050ce",
