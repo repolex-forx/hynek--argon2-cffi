@@ -1,0 +1,11 @@
+{
+  "org": "hynek",
+  "repo": "argon2-cffi",
+  "versions": [
+    {
+      "commit": "ff02917de777743d815a0410d816739ccd36396a",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:01:23.985768+00:00"
+    }
+  ]
+}
